@@ -1,0 +1,16 @@
+# Eclipse
+/.settings
+/.classpath
+/.project
+/bin
+/.metadata
+/.recommenders
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+/target/
+*.jar
+*.war

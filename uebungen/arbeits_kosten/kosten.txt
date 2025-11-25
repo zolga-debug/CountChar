@@ -1,0 +1,4 @@
+ID;Datum;Arbeitszeit in Stunden;Stundenlohn
+127;13.3.2022;3;120;
+89;12.3.2022;4;60;
+127;15.3.2022;2;90;
